@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" version="1.0" id="http://rmcreative.ru/opera/xdebug">
+	<name>Xdebug</name>
+	<description>You can toggle Xdebug session by simply clicking extension button. If it's turned on,
+    there will be a green badge. Don't forget to check settings and set your IDE key.</description>
+	<author href="http://rmcreative.ru/" email="sam@rmcreative.ru">Alexander Makarov</author>
+	<icon src="xdebug.png"/>
+	<license href="http://www.opensource.org/licenses/gpl-license.php">
+    Licensed under the GPL license
+    </license>
+
+	<preference name="mode" value="toggle" />
+	<preference name="idekey" value="netbeans-xdebug" />
+</widget>
